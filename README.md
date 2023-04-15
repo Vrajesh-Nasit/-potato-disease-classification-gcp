@@ -1,4 +1,4 @@
-# potato-disease-classification-gcp
+# potato-disease-classification-gcp-amd
 
 To deploy an ML model for potato disease classification in Google Cloud using AMD instance, follow the steps below:
 
